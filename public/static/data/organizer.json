@@ -1,0 +1,147 @@
+[
+  {
+    "title": "主辦單位",
+    "list": [
+      {
+        "title": "今周刊",
+        "image": "static/images/organizers/logotype1-01.png?0801",
+        "href": "https://www.businesstoday.com.tw/"
+      },
+      {
+        "title": "ESG永續台灣",
+        "image": "static/images/organizers/logotype1-02.png",
+        "href": "https://esg.businesstoday.com.tw/"
+      }
+    ]
+  },
+  {
+    "title": "協辦夥伴",
+    "list": [
+      {
+        "title": "統一超",
+        "image": "static/images/organizers/logotype4-02.png",
+        "href": ""
+      },
+      {
+        "title": "信義房屋",
+        "image": "static/images/organizers/logotype4-03.png",
+        "href": ""
+      },
+      {
+        "title": "地方創生協會",
+        "image": "static/images/organizers/logotype4-04.png",
+        "href": ""
+      },
+      {
+        "title": "崇越",
+        "image": "static/images/organizers/logotype4-12.png",
+        "href": ""
+      },
+      {
+        "title": "證交所",
+        "image": "static/images/organizers/logotype4-05.png",
+        "href": ""
+      },
+      {
+        "title": "悠遊卡",
+        "image": "static/images/organizers/logotype4-06.png",
+        "href": ""
+      },
+      {
+        "title": "悠遊付",
+        "image": "static/images/organizers/logotype4-09.png",
+        "href": ""
+      },
+      {
+        "title": "可口可樂",
+        "image": "static/images/organizers/logotype4-11.png",
+        "href": ""
+      },
+      {
+        "title": "環球MALL",
+        "image": "static/images/organizers/logotype4-07.png",
+        "href": "https://www.twglobalmall.com"
+      },
+      {
+        "title": "環境部",
+        "image": "static/images/organizers/logotype4-13.png",
+        "href": ""
+      },
+      {
+        "title": "台電",
+        "image": "static/images/organizers/logotype4-14.png",
+        "href": ""
+      },
+      {
+        "title": "國泰飯店",
+        "image": "static/images/organizers/logotype4-10.png",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "title": "響應夥伴",
+    "list": [
+      {
+        "title": "恆隆行",
+        "image": "static/images/organizers/logotype5-01.png",
+        "href": ""
+      },
+      {
+        "title": "Avier",
+        "image": "static/images/organizers/logotype5-02.png",
+        "href": ""
+      },
+      {
+        "title": "聯華食品-卡迪那",
+        "image": "static/images/organizers/logotype5-04.png",
+        "href": ""
+      },
+      {
+        "title": "聯華食品-VIVA",
+        "image": "static/images/organizers/logotype5-03.png",
+        "href": ""
+      },
+      {
+        "title": "海洋依珂",
+        "image": "static/images/organizers/logotype5-06.png",
+        "href": ""
+      },
+      {
+        "title": "華生",
+        "image": "static/images/organizers/logotype5-07.png",
+        "href": ""
+      },
+      {
+        "title": "毛寶",
+        "image": "static/images/organizers/logotype5-08.png",
+        "href": ""
+      },
+      {
+        "title": "泉發",
+        "image": "static/images/organizers/logotype5-09.png",
+        "href": ""
+      },
+      {
+        "title": "兆鴻",
+        "image": "static/images/organizers/logotype5-10.png",
+        "href": ""
+      },
+      {
+        "title": "米樂",
+        "image": "static/images/organizers/logotype5-12.png",
+        "href": ""
+      },
+      {
+        "title": "蘋果劇團",
+        "image": "static/images/organizers/logotype5-05.png",
+        "href": ""
+      },
+      {
+        "title": "諾貝爾",
+        "image": "static/images/organizers/logotype5-11.png",
+        "href": "http://www.nbl.tw"
+      }
+    ]
+  }
+]

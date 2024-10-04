@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #407140;
+  --color-secondary: #ede8dd;
+  --color-yellow: #f2b510;
+}
+
+.title {
+  @apply text-3xl xl:text-5xl text-primary font-bold;
+}
+.btn {
+  @apply text-white bg-primary px-6 py-1 rounded-full;
+}

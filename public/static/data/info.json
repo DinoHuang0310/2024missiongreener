@@ -1,0 +1,95 @@
+{
+  "registrable": false,
+  "deadlineMsg": "<div class='text-center'><h4 class='text-xl xl:text-2xl mb-2'>報名已截止</h4><p>本活動報名已截止，感謝您的支持。</p></div>",
+  "navList": [
+    {
+      "title": "關於",
+      "url": "/",
+      "isRouter": true
+    },
+    {
+      "title": "自綠任務",
+      "url": "/event",
+      "isRouter": true
+    },
+    {
+      "title": "活動內容",
+      "navList": [
+        {
+          "title": "室內特展",
+          "url": "/exhibition",
+          "isRouter": true
+        },
+        {
+          "title": "自綠商店街",
+          "url": "/market",
+          "className": "hidden",
+          "isRouter": true
+        },
+        {
+          "title": "沙龍講座",
+          "url": "/lecture",
+          "isRouter": true
+        }
+      ]
+    },
+    {
+      "title": "報名參加",
+      "url": "/signup",
+      "isRouter": true
+    },
+    {
+      "title": "自綠最前線",
+      "url": "/news",
+      "isRouter": true
+    }
+  ],
+  "youtube": "",
+  "showMarket": false,
+  "showFlow": false,
+  "showMissionThree": true,
+  "prize": [
+  ],
+  "news": [
+    {
+      "title": "還海行動2.0》鯖魚變小，漁業署實施總量管制…南方澳漁民跟著永續趨勢走，但問題是：魚價能跟上嗎？",
+      "url": "https://reurl.cc/Mj6xrW",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/158160/95.jpg_1140x855.jpg"
+    },
+    {
+      "title": "還海行動2.0系列一》小丑魚不見了，台灣海底正在「白色荒漠」化？盤點四大生存危機",
+      "url": "https://reurl.cc/Mj6xYW",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/patricechu_329/0326/%E6%96%B0%E5%A2%9E%E6%A8%99%E9%A1%8C.jpg"
+    },
+    {
+      "title": "還海行動2.0系列二》搶救小丑魚！聯電、海漁、鼻頭國小設「尼莫」寄宿學校，讓161隻游回大海",
+      "url": "https://reurl.cc/ZVZ3aA",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/patricechu_329/0326/%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(5).png"
+    },
+    {
+      "title": "還海行動2.0系列三》復育小丑魚=500天的精密永續工程；連海藻、海葵、基因庫都需一起照顧",
+      "url": "https://reurl.cc/kyMjGK",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/patricechu_329/0401/%E6%93%B7%E5%8F%965.PNG"
+    },
+    {
+      "title": "還海行動2.0系列四》復育小丑魚，還能賺「藍碳」？跨國企業紛投入，台灣應該怎麼做？",
+      "url": "https://reurl.cc/oyV2zv",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/patricechu_329/0401/fish.jpg"
+    },
+    {
+      "title": "還海行動2.0》台灣有400多種魚，愛台灣要吃那5種最好？餐桌上的海洋永續行動，我們可以怎麼做？",
+      "url": "https://reurl.cc/WNAQ4Z",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/158157/88.jpg_1140x855.jpg"
+    },
+    {
+      "title": "今周刊365天追蹤調查》 被「垃」殺的台灣海岸一年後怎麼了：該如何讓它不僅是耗資65億的短暫煙花？",
+      "url": "https://reurl.cc/XRZM60",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/128179/86.jpg_1140x855.jpg"
+    },
+    {
+      "title": "422世界地球日》直擊台灣海洋垃圾危機！為什麼政府每年花17億清海廢，卻治標不治本？",
+      "url": "https://reurl.cc/Nlbd66",
+      "image": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/112729/1140-0421.jpg_1140x855.jpg"
+    }
+  ]
+}

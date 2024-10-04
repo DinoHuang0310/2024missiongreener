@@ -1,0 +1,58 @@
+[
+  {
+    "title": "統一超商",
+    "image": "static/images/exhibition/list01-image.jpg",
+    "eventName": "【日常碳】低碳潮飲食",
+    "tags": ["7-ELEVEN", "7-ELEVEN日常碳", "低碳飲食"],
+    "logo": "static/images/organizers/logotype4-02.png",
+    "contentImage": "static/images/exhibition/list01-image.jpg",
+    "content": {
+      "org": "統一超商提供健康營養又環保的低碳飲食選擇，包括像是天素地蔬、Simple Fit、在地蔬果、低碳植米、燕麥奶拿鐵等低碳水和低碳排商品，滿足消費者攝取蔬菜需求；不僅攜手供應商從生產端嚴格管控品質，商品更清楚標示基因改造，熱量、成份等訊息，讓消費者選得安心、吃得放心！走進7-ELEVEN，就能享用到低碳健康商品，升級你我日常生活。",
+      "missiongreener": "地球永續 你我日常",
+      "event": "",
+      "link": ["https://www.facebook.com/711love", "https://www.instagram.com/7elevenloves/"]
+    }
+  },
+  {
+    "title": "國泰飯店觀光事業",
+    "image": "static/images/exhibition/list02-image.jpg",
+    "eventName": "響應環保 永續之旅",
+    "tags": ["國泰飯店觀光事業", "和逸飯店", "慕軒飯店", "台北國泰萬怡酒店"],
+    "logo": "static/images/organizers/logotype4-10.png",
+    "contentImage": "static/images/exhibition/list02-image.jpg",
+    "content": {
+      "org": "【國泰飯店觀光事業】旗下擁有和逸飯店、慕軒飯店及台北國泰萬怡酒店三大品牌，集團響應政府環保政策，落實以「Care Your Stay」為主題的ESG發展計畫，在人才培育部分，向下紮根，推動「小樹苗培育計畫」，在社會公益部分，持續參與如國際關燈日的國際環保運動，捐贈閒置資產及月餅給弱勢團體，期許藉由不同的作為，實踐永續行動及企業社會責任。",
+      "missiongreener": "更永續的旅程，從你開始，Care Your Stay，讓我們一同創造美好旅程。",
+      "event": "",
+      "link": []
+    }
+  },
+  {
+    "title": "海洋依珂",
+    "image": "static/images/exhibition/list03-image.jpg",
+    "eventName": "源自海洋、愛護海洋",
+    "tags": ["海洋依珂", "台灣永續保養品", "褐藻保養"],
+    "logo": "static/images/organizers/logotype5-06.png",
+    "contentImage": "static/images/exhibition/list03-content.jpg",
+    "content": {
+      "org": "台灣永續保養品，獨家「FucoSkin®小分子褐藻醣膠」 添加實驗功效以上%數，堅持全成分海洋友善，包裝使用FSC森林認證紙材、單一材質瓶器，減少環境負擔。源自海洋愛護海洋，保護肌膚同時也堅持愛護環境!",
+      "missiongreener": "保護肌膚與海洋共存，從您的一個選擇做起，Hi-Q Beauty海洋依珂與您共建永續環境",
+      "event": "現場加入海洋依珂Line好友或會員<br>歡迎體驗全系列海洋依珂商品，現場還有驚喜好禮等您帶回家",
+      "link": ["https://www.hiq-beauty.com/"]
+    }
+  },
+  {
+    "title": "NBL「海洋生物復育計畫」",
+    "image": "static/images/exhibition/list04-image.jpg",
+    "eventName": "還海行動 2.0",
+    "tags": ["還海行動 2.0", "海洋生物復育計畫", "自然解方"],
+    "logo": "static/images/organizers/logotype5-11.png",
+    "contentImage": "static/images/exhibition/list04-content.jpg",
+    "content": {
+      "org": "Nobel Biotech Lab. (NBL) 是由台灣大學與相關領域研究人員所組成的團隊。本團隊秉持友善地球的態度，營運海洋生物保種暨復育中心，致力於瑚礁魚類與無脊椎動物的保種培育，包括珊瑚和海草的大規模量產。針對有復育需求之物種，快速培殖並做投放追蹤，協助提升海洋生物多樣性與海洋藍碳之推展，為永續地球之目標努力。",
+      "missiongreener": "「手」護地球，永續海洋",
+      "event": "活體人工珊瑚礁魚種展出",
+      "link": ["http://www.nbl.tw"]
+    }
+  }
+]

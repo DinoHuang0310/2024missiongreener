@@ -1,0 +1,16 @@
+[
+  {
+    "title": "綠色和平基金會",
+    "image": "static/images/market/list02-image.png",
+    "eventName": "簡單綠生活 由你愛地球",
+    "tags": ["綠色和平", "全球塑膠公約", "減塑"],
+    "logo": "static/images/organizers/logotype5-02.png",
+    "contentImage": "static/images/market/list02-content.png",
+    "content": {
+      "org": "<p class='mb-2'>綠色和平是一個獨立的全球性環保組織，致力於以實際行動推動積極的改變，保護地球環境與世界和平。</p><p>我們透過研究、教育和遊說工作，推動政府、企業和社會大眾共同尋求環境問題的解決方案。成立於1971年，綠色和平在全球超過55個國家設有28間全國或區域辦公室，擁有超過300萬名支持者，為了維持公正性和獨立性，綠色和平不接受任何政府、企業或政治團體的資助，只接受個人和獨立基金的直接捐款， 我們的願景，是確保地球得以持續孕育多樣且豐富的生命。</p>",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.greenpeace.org/taiwan/"]
+    }
+  }
+]
