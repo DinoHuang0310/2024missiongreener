@@ -44,25 +44,29 @@
             </h3>
             <p>預約報名參加自綠生活節<br>一起來參與活動拿好禮！</p>
           </div>
-          <picture>
-            <source srcset="../../assets/images/mission-one-content-m.png" media="(max-width: 639px)">
-            <img
-              class="mx-auto mb-2"
-              src="../../assets/images/mission-one-content.png"
-              alt="第一重好禮: 事前報名參加活動，並於現場完成報到，即可享有領取每日限量早鳥禮資格。"
-              loading="lazy"
-            />
-          </picture>
-          <picture>
-            <source srcset="../../assets/images/mission-two-content-m.png" media="(max-width: 639px)">
-            <img
-              class="mx-auto mb-4"
-              src="../../assets/images/mission-two-content.png"
-              alt="第二重好禮: 當日活動現場、指定時間抽出精美好禮。"
-              loading="lazy"
-            />
-          </picture>
-          <div v-if="prize.length" class="text-primary text-2xl font-bold text-center sm:text-left mb-2 sm:pl-10">現場抽好禮</div>
+          <div class="text-center mb-2">
+            <picture class="inline-block aspect-[640/444] sm:aspect-[759/197] w-full max-w-[759px]">
+              <source srcset="../../assets/images/mission-one-content-m.png" media="(max-width: 639px)">
+              <img
+                src="../../assets/images/mission-one-content.png"
+                alt="第一重好禮: 事前報名參加活動，並於現場完成報到，即可享有領取每日限量早鳥禮資格。"
+                loading="lazy"
+              />
+            </picture>
+          </div>
+          
+          <div class="text-center mb-2">
+            <picture class="inline-block aspect-[640/399] sm:aspect-[759/195] w-full max-w-[759px]">
+              <source srcset="../../assets/images/mission-two-content-m.png" media="(max-width: 639px)">
+              <img
+                src="../../assets/images/mission-two-content.png"
+                alt="第二重好禮: 當日活動現場、指定時間抽出精美好禮。"
+                loading="lazy"
+              />
+            </picture>
+          </div>
+
+          <div v-if="prize.length" class="text-primary text-2xl font-bold text-center sm:text-left mb-2 sm:pl-10">自綠抽獎好禮</div>
           <BtSlider
             :sliderData="prize"
             :showNavigation="true"
@@ -70,16 +74,23 @@
           >
             <template v-slot:listItem="{ item }">
               <div>
-                <img :src="`${app.baseURL}${item.image}`" :alt="item.title">
-                <p class="text-center text-sm">
-                  <span class="inline-block bg-primary text-white px-3 py-1 rounded-full">{{ item.title }}</span>
+                <div class="aspect-square">
+                  <img :src="`${app.baseURL}${item.image}`" :alt="item.title" loading="lazy">
+                </div>
+                <p class="text-center text-base mt-2">
+                  {{ item.title }}
+                  <!-- <span class="inline-block bg-primary text-white px-3 py-1 rounded-full"></span> -->
                 </p>
               </div>
             </template>
           </BtSlider>
-          <div v-if="showMissionThree" class="text-center">
-            <a class="inline-block mb-4" href="https://lihi2.com/JRbRj" target="blank">
-              <picture class="block text-center">
+          <div v-if="showMissionThree" class="text-center mb-4">
+            <a
+              class="inline-block aspect-[640/915] sm:aspect-[759/214] w-full max-w-[759px]"
+              href="https://lihi2.com/JRbRj"
+              target="blank"
+            >
+              <picture>
                 <source srcset="../../assets/images/mission-three-content-m.png" media="(max-width: 639px)">
                 <img
                   src="../../assets/images/mission-three-content.png"
