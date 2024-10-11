@@ -23,7 +23,6 @@
         {
           "title": "自綠商店街",
           "url": "/market",
-          "className": "hidden",
           "isRouter": true
         },
         {
@@ -45,10 +44,45 @@
     }
   ],
   "youtube": "",
-  "showMarket": false,
+  "showMarket": true,
   "showFlow": false,
   "showMissionThree": true,
   "prize": [
+    {
+      "title": "藍光全效精華乳套組",
+      "image": "static/images/prize/prize07.jpg",
+      "description": ""
+    },
+    {
+      "title": "One step Terra65氮化鎵快充電源供應器",
+      "image": "static/images/prize/prize01.jpg",
+      "description": ""
+    },
+    {
+      "title": "環保快充傳輸線1.2M(兩色)",
+      "image": "static/images/prize/prize02.jpg",
+      "description": ""
+    },
+    {
+      "title": "Yucca郵差包",
+      "image": "static/images/prize/prize03.jpg",
+      "description": ""
+    },
+    {
+      "title": "Logan收納包",
+      "image": "static/images/prize/prize04.jpg",
+      "description": ""
+    },
+    {
+      "title": "Uni Dual45氮化鎵快充電源供應器",
+      "image": "static/images/prize/prize05.jpg",
+      "description": ""
+    },
+    {
+      "title": "百靈油禮盒-小熊款",
+      "image": "static/images/prize/prize06.jpg",
+      "description": ""
+    }
   ],
   "news": [
     {

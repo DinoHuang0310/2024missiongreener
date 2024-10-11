@@ -28,20 +28,6 @@
     }
   },
   {
-    "title": "海洋依珂",
-    "image": "static/images/exhibition/list03-image.jpg",
-    "eventName": "源自海洋、愛護海洋",
-    "tags": ["海洋依珂", "台灣永續保養品", "褐藻保養"],
-    "logo": "static/images/organizers/logotype5-06.png",
-    "contentImage": "static/images/exhibition/list03-content.jpg",
-    "content": {
-      "org": "台灣永續保養品，獨家「FucoSkin®小分子褐藻醣膠」 添加實驗功效以上%數，堅持全成分海洋友善，包裝使用FSC森林認證紙材、單一材質瓶器，減少環境負擔。源自海洋愛護海洋，保護肌膚同時也堅持愛護環境!",
-      "missiongreener": "保護肌膚與海洋共存，從您的一個選擇做起，Hi-Q Beauty海洋依珂與您共建永續環境",
-      "event": "現場加入海洋依珂Line好友或會員<br>歡迎體驗全系列海洋依珂商品，現場還有驚喜好禮等您帶回家",
-      "link": ["https://www.hiq-beauty.com/"]
-    }
-  },
-  {
     "title": "NBL「海洋生物復育計畫」",
     "image": "static/images/exhibition/list04-image.jpg",
     "eventName": "還海行動 2.0",
@@ -53,6 +39,48 @@
       "missiongreener": "「手」護地球，永續海洋",
       "event": "活體人工珊瑚礁魚種展出",
       "link": ["http://www.nbl.tw"]
+    }
+  },
+  {
+    "title": "好日子 agooday",
+    "image": "static/images/exhibition/list05-image.jpg",
+    "eventName": "一起過好日子，對地球好一點！",
+    "tags": ["無痕飲食生活", "減塑環保愛地球", "從食物袋開始"],
+    "logo": "static/images/exhibition/logo/list05-logo.jpg",
+    "contentImage": "static/images/exhibition/list05-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>好日子 agooday</p><p class='mb-3'>「用設計的力量，讓減塑變得更簡單。」</p><p class='mb-3'>每個人都知道應該要環保，只是不知道該如何在生活中實踐。</p><p class='mb-3'>好日子agooday希望能夠做這個橋樑，設計好用的產品，讓環保從理念落實到每天生活當中，減少製造一次性塑膠垃圾。</p><p>並且把減塑的理念，提升為一種生活風格我們期許自己可以為台灣這片土地做出更多更棒的產品。</p>",
+      "missiongreener": "無痕飲食生活，就從食物袋開始！",
+      "event": "於好日子攤位消費滿1000元即贈好日子束口袋1個",
+      "link": ["https://agooday.com/"]
+    }
+  },
+  {
+    "title": "Tasteme",
+    "image": "static/images/exhibition/list06-image.jpg",
+    "eventName": "Make waste to Taste",
+    "tags": ["wastetotaste", "惜食平台", "環保是一件很潮的事"],
+    "logo": "static/images/exhibition/logo/list06-logo.png",
+    "contentImage": "static/images/exhibition/list06-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>Tasteme 致力於為商家提供減少食物浪費、提升品牌形象、擴大客戶群、減少環境污染、減輕消費者經濟負擔的解決方案。</p><p>自 2021 年 4 月推出以來，Tasteme 的「良食福袋」已累積近 130,000 位使用者，並與超過 1,000 家商店合作，包括零售連鎖店及當地商店。我們的目標是透過應用程式服務來解決食物不平等的問題，讓每個人都能使用。</p>",
+      "missiongreener": "減廢小事，節碳大事！",
+      "event": "品牌小禮物或贊助商小禮物",
+      "link": ["https://www.tasteme.com.tw/"]
+    }
+  },
+  {
+    "title": "有好咖啡",
+    "image": "static/images/exhibition/list07-image.jpg",
+    "eventName": "YoFriend Coffee 有好咖啡 咖啡有好",
+    "tags": ["咖啡有好", "有好咖啡"],
+    "logo": "static/images/exhibition/logo/list07-logo.jpg",
+    "contentImage": "static/images/exhibition/list07-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>2024年6月 為響應外交力挺友邦瓜地馬拉咖啡豆</p><p class='mb-3'>Frank成立有好咖啡,以瓜地馬拉國旗色為代表,選擇在森林環境中成長的青蛙作為標誌,強調與大自然生態綠林共好,創造人與大自然和諧相處的世界,有好咖啡更象徵友誼與環保的使命。</p><p>透過一杯咖啡,每一口都是對友誼的珍視,讓我們在這份美好滋味中,深化彼此的情誼</p>",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.yofriend.coffee/"]
     }
   }
 ]

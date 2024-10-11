@@ -1,16 +1,142 @@
 [
   {
-    "title": "綠色和平基金會",
-    "image": "static/images/market/list02-image.png",
-    "eventName": "簡單綠生活 由你愛地球",
-    "tags": ["綠色和平", "全球塑膠公約", "減塑"],
-    "logo": "static/images/organizers/logotype5-02.png",
-    "contentImage": "static/images/market/list02-content.png",
+    "title": "海洋依珂",
+    "image": "static/images/exhibition/list03-image.jpg",
+    "eventName": "源自海洋、愛護海洋",
+    "tags": ["海洋依珂", "台灣永續保養品", "褐藻保養"],
+    "logo": "static/images/organizers/logotype5-06.png",
+    "contentImage": "static/images/exhibition/list03-content.jpg",
     "content": {
-      "org": "<p class='mb-2'>綠色和平是一個獨立的全球性環保組織，致力於以實際行動推動積極的改變，保護地球環境與世界和平。</p><p>我們透過研究、教育和遊說工作，推動政府、企業和社會大眾共同尋求環境問題的解決方案。成立於1971年，綠色和平在全球超過55個國家設有28間全國或區域辦公室，擁有超過300萬名支持者，為了維持公正性和獨立性，綠色和平不接受任何政府、企業或政治團體的資助，只接受個人和獨立基金的直接捐款， 我們的願景，是確保地球得以持續孕育多樣且豐富的生命。</p>",
+      "org": "台灣永續保養品，獨家「FucoSkin®小分子褐藻醣膠」 添加實驗功效以上%數，堅持全成分海洋友善，包裝使用FSC森林認證紙材、單一材質瓶器，減少環境負擔。源自海洋愛護海洋，保護肌膚同時也堅持愛護環境!",
+      "missiongreener": "保護肌膚與海洋共存，從您的一個選擇做起，Hi-Q Beauty海洋依珂與您共建永續環境",
+      "event": "現場加入海洋依珂Line好友或會員<br>歡迎體驗全系列海洋依珂商品，現場還有驚喜好禮等您帶回家",
+      "link": ["https://www.hiq-beauty.com/"]
+    }
+  },
+  {
+    "title": "綠色冀泉社會企業",
+    "image": "static/images/market/list01-image.jpg",
+    "eventName": "您今天種樹了嗎?",
+    "tags": ["來趟零碳旅行", "造個森林足球場", "願望樹光大道"],
+    "logo": "static/images/market/logo/list01-logo.jpg",
+    "contentImage": "static/images/market/list01-content.jpg",
+    "content": {
+      "org": "綠色冀泉社企為亞洲百大社企之一，成立9年來致力推動種回台灣高經濟原生樹種，發展智慧精緻林業，創新樹循環經濟與擴大社會影響力。願景「一人一樹」；行動方案：「以樹養球」以樹的循環經濟支持宜花東偏鄉足球發展；「加樹APP」紀錄著以你之名為台灣種樹的足跡；「都市綠管家」在都市屋頂育苗緩解都市熱島；「綠淨行旅」旅遊低碳+種樹負碳+碳權註銷；「樹光大道」產官學合作，翻轉閒置廢耕土地，全民共享。",
+      "missiongreener": "一人一樹還地球",
+      "event": "",
+      "link": ["https://www.greatghs.com/index/"]
+    }
+  },
+  {
+    "title": "斗宅折折杯",
+    "image": "static/images/market/list02-image.jpg",
+    "eventName": "「斗宅折折杯」隨手摺疊，隨心守護地球。",
+    "tags": ["環保杯", "斗宅折折杯", "ESG永續環保"],
+    "logo": "static/images/market/logo/list02-logo.png",
+    "contentImage": "static/images/market/list02-content.jpg",
+    "content": {
+      "org": "人們從這個大地孕育而生，與大地息息相關，就好像肚臍是母親孕養我們最初始的連結，因此取名「肚臍」閩南語諧音「斗宅」，讓我們以守護大地的母親，作為品牌的使命。創立初期首推輕巧無感攜帶的斗宅折折杯作為外出喝飲料的環保杯，希望以輕鬆便利的方式提升人們優質綠色生活的習慣，達到環保減碳的目的，讓人們在享受方便的同時，也能守護環境。",
+      "missiongreener": "「斗宅折折杯」隨手摺疊，隨心守護地球。",
+      "event": "掃QRcode加入斗宅官方帳號，體驗斗宅折折杯摺合，並至粉專留言使用心得，可獲斗宅杯套一個。",
+      "link": ["https://do-zhai.com/"]
+    }
+  },
+  {
+    "title": "美味獵人│拒絕製造更多剩食",
+    "image": "static/images/market/list03-image.jpg",
+    "eventName": "響應低碳飲食我+1",
+    "tags": ["小包裝拒絕剩食", "美味獵人", "響應低碳飲食"],
+    "logo": "static/images/market/logo/list03-logo.png",
+    "contentImage": "static/images/market/list03-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>美味獵人透過記憶中的台灣味，採用在地食材，響應低碳飲食，同時以小包裝拒絕製造更多剩食，不浪費食物的永續生活，從習慣做起，為環保盡一份心力。</p><p>不論自用或送禮，是兼具質感與環保意識的好選擇。</p>",
+      "missiongreener": "不浪費食物，永續生活從習慣做起",
+      "event": "",
+      "link": ["https://yummy-hunter.com"]
+    }
+  },
+  {
+    "title": "CHICHICHOICE鷄極本味x植物之選",
+    "image": "static/images/market/list04-image.jpg",
+    "eventName": "自然滋養，健康選擇",
+    "tags": ["今周植物滴雞精", "今周鷄極本味健康體驗", "今周植物營養之選"],
+    "logo": "static/images/market/logo/list04-logo.png",
+    "contentImage": "static/images/market/list04-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>鷄極本味是一個專注於提供高品質、天然營養產品的品牌，致力於讓每位顧客享受到健康與美味的完美結合。我們的主打產品——植物滴雞精，完全採用植物成分，特別適合素食者及注重健康飲食的人群。經過傳統工藝精心製作，確保每一包產品都能保留其天然的營養價值，讓消費者在享受美味的同時，也能獲得身心的滋養。</p><p>鷄極本味堅持不添加防腐劑、人工色素和香料，產品零脂肪、零膽固醇，讓顧客可以安心享用。隨著對健康生活的重視不斷提高，我們的植物滴雞精因其獨特的配方和優越的品質，受到廣大消費者的喜愛。未來，鷄極本味將繼續致力於創新，為顧客提供更多優質的植物營養產品，讓健康美味成為每個家庭的日常選擇。</p>",
+      "missiongreener": "鷄極本味，為您提供天然營養，實現可持續的健康生活！",
+      "event": "攤位可提供試喝",
+      "link": ["https://www.chichichoice.com/zh-TW"]
+    }
+  },
+  {
+    "title": "大花農場",
+    "image": "static/images/market/list05-image.jpg",
+    "eventName": "自然農法 草生栽培",
+    "tags": [],
+    "logo": "static/images/market/logo/list05-logo.png",
+    "contentImage": "static/images/market/list05-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>大花農場以有機農法栽種食用級玫瑰花，長年來的堅持，營造了一個友善土壤生態的環境。</p><p>在園區內，人、昆蟲、鳥類等生物與作物和諧共處，美麗的花園處處充滿生機，「農人」在無農藥的花園中，每日於清晨採花是一項幸福的工作，身體健康了；「土地」沒有化學肥料、藥物的干擾，昆蟲有吃不完的有機質食物，製造了更多肥份回饋給這片土地，土質健康了；「玫瑰」在這裡開出的每一朵花，以其美麗及芬芳滋味，給予享用之人健康活力，綻放笑顏。一個堅持生態永續的信念，造就了一個健康幸福的產業，「有機玫瑰」是上天恩賜的厚禮！</p>",
+      "missiongreener": "一個堅持生態永續的信念，造就了一個健康幸福的產業，屏東 九如『大花農場』是全國最大的有機玫瑰農場，除了有機玫瑰花的 種植、到「玫瑰盒子」產品研發、加工、市場銷售，一直都秉持著 初心『吃健康，用健康』所以在產品上看不到有化學添加物",
+      "event": "",
+      "link": ["http://www.rosebox.com.tw/"]
+    }
+  },
+  {
+    "title": "阿里山極邊山葵",
+    "image": "static/images/market/list06-image.jpg",
+    "eventName": "來自山林的珍稀美味",
+    "tags": [],
+    "logo": "static/images/market/logo/list06-logo.png",
+    "contentImage": "static/images/market/list06-content.jpg",
+    "content": {
+      "org": "50年前首位讓日本人發現阿里山山葵而開始外銷日本，日本人手把手的傳授種植一直到加工等技術，阿里山山葵的起源也是全台唯一專營山葵，一生都奉獻給山葵！",
       "missiongreener": "",
       "event": "",
-      "link": ["https://www.greenpeace.org/taiwan/"]
+      "link": ["https://www.facebook.com/AlishanJibianTeaWasabi/"]
+    }
+  },
+  {
+    "title": "daebete",
+    "image": "static/images/market/list07-image.jpg",
+    "eventName": "自然栽植 自然喝好茶",
+    "tags": ["細品香茗", "daebete", "hapidae"],
+    "logo": "static/images/market/logo/list07-logo.png",
+    "contentImage": "static/images/market/list07-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>生活就像一趟探索的旅程，在日常的選擇中，發掘細節裡的感受。</p><p class='mb-3'>它好好，延續美好的生活理念，品味質感生活的富足，創造嶄新的價值。</p><p class='mb-3'>吃得好、用得好、善待土地、傳遞真實的價值發掘的過程，引發內心的呼應。</p><p>我們可以真心的說出「它好好 It's so good. 」</p>",
+      "missiongreener": "daebeté為臺灣話茶米茶的意思，循環利用大自然本身提供的養分，讓茶樹自然健康成長，每片茶葉皆通過農藥殘留檢測，且具有 TAP 產銷履歷農業產品認證，每片茶園保純淨無汙染，並嚴創獨門低溫萃茶烘焙工法，嚴守每一到耕植流程，讓您安心享受台灣自然好茶。",
+      "event": "",
+      "link": ["https://www.tahaohao.com/"]
+    }
+  },
+  {
+    "title": "兆鴻黃金蜆蛋白",
+    "image": "static/images/market/list08-image.jpg",
+    "eventName": "選擇友善環境的產品",
+    "tags": ["兆鴻綠行動", "自綠從今開始"],
+    "logo": "static/images/organizers/logotype5-10.png",
+    "contentImage": "static/images/market/list08-content.jpg",
+    "content": {
+      "org": "以科學實證為基礎，產學合作創新研發，堅持不改基因、不添加化學物質，順應生物特性成分，用高端科技技術嚴選精製而成選用花蓮玉里黃金蜆，以特殊技術培養藻水後，養殖台灣黃金蜆，有產銷履歷才敢大聲每一批黃金蜆收成，到原料到成品，堅持批批檢驗，滕德姆斯、ＳＧＳ清真哈拉等國家級單位檢測認證，每一批都最高標準，自己敢吃才敢拿出來賣。",
+      "missiongreener": "我的綠色宣言是，從自身及員工做起，選用環保標誌的機具、出門自備保鮮盒／保溫杯和環保袋、短程距離以步行或腳踏車代步、多種植綠色植物以綠化工作/工廠環境。",
+      "event": "加入兆鴻自綠Line@會員即贈體驗品一份",
+      "link": ["https://www.zh-biotech.com/zh-TW"]
+    }
+  },
+  {
+    "title": "Ice Gyaru冰淇淋 X 可甜可鹹豆花",
+    "image": "static/images/market/list09-image.jpg",
+    "eventName": "アイスギャル  X Sweet& Salty",
+    "tags": ["冰淇淋", "冰淇淋豆花", "vegan"],
+    "logo": "static/images/market/logo/list09-logo.jpg",
+    "contentImage": "static/images/market/list09-content.jpg",
+    "content": {
+      "org": "Ice Gyaru是取自日文發音アイスギャル ，愛死辣妹冰淇淋(⁎⁍̴̛ᴗ⁍̴̛⁎)這次將和可甜可鹹sweet&salty豆花合攤，好吃的聯名甜點，敬請期待！",
+      "missiongreener": "環境友善從植物飲食做起( /•ө•)/",
+      "event": "",
+      "link": ["https://instagram.com/icegyaru"]
     }
   }
 ]

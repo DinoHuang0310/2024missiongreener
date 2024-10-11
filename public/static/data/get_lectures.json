@@ -1,5 +1,23 @@
 {
   "lectures": [
+    {
+      "name": "水力能好厲害(DIY水動力車)",
+      "code": "1-2",
+      "image": "static/images/speakers/speaker04.jpg",
+      "date": "10/26(六)",
+      "full": true,
+      "checked": false,
+      "attendances": "1"
+    },
+    {
+      "name": "風能好厲害(DIY風動力車)",
+      "code": "2-1",
+      "image": "static/images/speakers/speaker05.jpg",
+      "date": "10/27(日)",
+      "full": true,
+      "checked": false,
+      "attendances": "1"
+    }
   ],
   "registrable": true,
   "deadlineMsg": "<br><br><br><div class='py-12 text-center'><h4 class='text-2xl mb-2'>敬請期待</h4><br><br><br></div>"
