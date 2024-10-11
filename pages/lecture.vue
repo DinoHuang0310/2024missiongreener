@@ -53,9 +53,9 @@
                   alt="沙龍講座"
                 >
               </h1>
-              <p>想要實踐自綠卻不知道如何起步？</p>
-              <p>從手作小物、視覺影象、經驗分享</p>
-              <p>打造屬於你的自綠行動</p>
+              <p>不確定如何開始你的自綠生活？一起做就對了！</p>
+              <p>手作課程、講座分享、兒童劇團演出，</p>
+              <p>我們陪你一起邁出屬於你的自綠第一步！</p>
             </div>
 
             <ul class="flex flex-wrap">
@@ -71,7 +71,12 @@
                       <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
                       <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                     </svg>
-                    <img class="relative w-full bg-white" :src="`${app.baseURL}${list.speakers[0].image}`" :alt="list.speakers[0].name">
+                    <img
+                      class="relative w-full bg-white"
+                      :src="`${app.baseURL}${list.speakers[0].image}`"
+                      :alt="list.speakers[0].name"
+                      loading="lazy"
+                    >
                     <div
                       class="absolute w-full left-0 bottom-0 text-white px-3 py-2 font-medium
                       bg-gradient-to-b from-black/0 to-black/90"

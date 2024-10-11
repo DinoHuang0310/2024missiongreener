@@ -20,6 +20,7 @@
                 class="mx-auto w-11/12 drop-shadow-md"
                 :src="`${publicPath}static/images/actions/action${index+1}.svg`"
                 :alt="list.title"
+                loading="lazy"
               />
             </div>
           </div>

@@ -6,7 +6,7 @@
     >
       <div :class="areaBox" class="sm:top-1/2 sm:-translate-y-1/2 sm:right-1/2 sm:mt-[3%] sm:text-right">
         <img
-          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100"
+          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100 min-h-[40px]"
           src="../../assets/images/exhibition-title.png"
           alt="主題特展"
           loading="lazy"
@@ -51,7 +51,7 @@
         class="sm:top-1/3 sm:right-0 sm:-translate-y-1/2 lg:right-[5%] xl:right-[8%] 2xl:right-[12%] 2xl:translate-y-0 sm:text-right"
       >
         <img
-          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100"
+          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100 min-h-[40px]"
           src="../../assets/images/market-title.png"
           alt="自綠商店街"
           loading="lazy"
@@ -88,12 +88,12 @@
     >
       <div :class="areaBox" class="sm:top-1/2 sm:-translate-y-1/2 sm:left-[37%] sm:text-left">
         <img
-          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100"
+          class="inline-block sm:mb-4 scale-[0.65] sm:scale-100 min-h-[40px]"
           src="../../assets/images/lecture-title.png"
           alt="沙龍講座"
           loading="lazy"
         >
-        <p class="mb-5">想要實踐自綠卻不知道如何起步？<br>從手作小物、視覺影象、經驗分享<br>打造屬於你的自綠行動</p>
+        <p class="mb-5">不確定如何開始你的自綠生活？一起做就對了！<br>手作課程、講座分享、兒童劇團演出，<br>我們陪你一起邁出屬於你的自綠第一步！</p>
         <NuxtLink class="btn text-xl" to="/lecture">了解更多</NuxtLink>
       </div>
       <div
