@@ -16,7 +16,7 @@
       </nav>
     </div>
 
-    <button class="space-y-2 lg:hidden pt-1" @click="showNav = true">
+    <button class="absolute top-0 right-0 h-full space-y-2 lg:hidden px-4" @click="showNav = true">
       <span class="block w-8 h-0.5 bg-gray-600" />
       <span class="block w-8 h-0.5 bg-gray-600" />
       <span class="block w-5 h-0.5 bg-gray-600" />
