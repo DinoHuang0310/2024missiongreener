@@ -17,6 +17,15 @@
       "full": true,
       "checked": false,
       "attendances": "1"
+    },
+    {
+      "name": "【蜂蠟布DIY】體驗活動",
+      "code": "2-5",
+      "image": "static/images/speakers/speaker08.jpg",
+      "date": "10/27(日)",
+      "full": true,
+      "checked": false,
+      "attendances": "1"
     }
   ],
   "registrable": true,

@@ -44,7 +44,7 @@
             </h3>
             <p>預約報名參加自綠生活節<br>一起來參與活動拿好禮！</p>
           </div>
-          <div class="text-center mb-2">
+          <div class="text-center">
             <picture class="inline-block aspect-[640/444] sm:aspect-[759/197] w-full max-w-[759px]">
               <source srcset="../../assets/images/mission-one-content-m.png" media="(max-width: 639px)">
               <img
@@ -53,6 +53,62 @@
                 loading="lazy"
               />
             </picture>
+          </div>
+          <div class="mb-8">
+            <div class="sm:flex">
+              <div class="sm:w-1/2 mb-12">
+                <div class="text-primary text-2xl font-bold text-center">10/26 早鳥禮</div>
+                <ul class="flex justify-between">
+                  <li class="w-[48%]">
+                    <figure>
+                      <div class="aspect-square">
+                        <img
+                          :src="`${app.baseURL}static/images/prize/event-prize01.jpg`"
+                          alt="Lexon Speakerbuds LA127C (耳機只是樣品)藍牙揚聲器"
+                          loading="lazy"
+                        >
+                      </div>
+                      <figcaption class="text-center text-base mt-2">Lexon Speakerbuds LA127C (耳機只是樣品)藍牙揚聲器</figcaption>
+                    </figure>
+                  </li>
+                  <li class="w-[48%]">
+                    <figure>
+                      <div class="aspect-square">
+                        <img
+                          :src="`${app.baseURL}static/images/prize/event-prize02.jpg`"
+                          alt="Corkcicle 750ml 美國三層保溫設計 不鏽鋼保溫瓶"
+                          loading="lazy"
+                        >
+                      </div>
+                      <figcaption class="text-center text-base mt-2">Corkcicle 750ml 美國三層保溫設計 不鏽鋼保溫瓶</figcaption>
+                    </figure>
+                  </li>
+                </ul>
+                <div class="text-center">
+                  <span class="inline-block text-base px-3 py-0.5 border border-footer mt-6">隨機發放乙份 恕不挑款</span>
+                </div>
+              </div>
+              <div class="sm:w-1/2">
+                <div class="text-primary text-2xl font-bold text-center">10/27 早鳥禮</div>
+                <ul class="flex justify-center">
+                  <li class="w-[48%]">
+                    <figure>
+                      <div class="aspect-square">
+                        <img
+                          :src="`${app.baseURL}static/images/prize/event-prize03.jpg`"
+                          alt="米樂爆米花"
+                          loading="lazy"
+                        >
+                      </div>
+                      <figcaption class="text-center text-base mt-2">米樂爆米花</figcaption>
+                    </figure>
+                  </li>
+                </ul>
+                <div class="text-center">
+                  <span class="inline-block text-base px-3 py-0.5 border border-footer mt-6">隨機發放乙份 恕不挑款</span>
+                </div>
+              </div>
+            </div>
           </div>
           
           <div class="text-center mb-2">
@@ -66,24 +122,42 @@
             </picture>
           </div>
 
-          <div v-if="prize.length" class="text-primary text-2xl font-bold text-center sm:text-left mb-2 sm:pl-10">自綠抽獎好禮</div>
-          <BtSlider
-            :sliderData="prize"
-            :showNavigation="true"
-            class="pb-4"
-          >
-            <template v-slot:listItem="{ item }">
-              <div>
-                <div class="aspect-square">
-                  <img :src="`${app.baseURL}${item.image}`" :alt="item.title" loading="lazy">
-                </div>
-                <p class="text-center text-base mt-2">
-                  {{ item.title }}
-                  <!-- <span class="inline-block bg-primary text-white px-3 py-1 rounded-full"></span> -->
-                </p>
-              </div>
-            </template>
-          </BtSlider>
+          <div v-if="prize.length" class="mb-8">
+            <div class="text-primary text-2xl font-bold text-center sm:text-left mb-2 sm:pl-10">自綠抽獎好禮</div>
+            <BtSlider
+              :sliderData="prize"
+              :showNavigation="true"
+              class="mb-8"
+            >
+              <template v-slot:listItem="{ item }">
+                <figure>
+                  <div class="aspect-square">
+                    <img :src="`${app.baseURL}${item.image}`" :alt="item.title" loading="lazy">
+                  </div>
+                  <figcaption class="text-center text-base mt-2">
+                    {{ item.title }}
+                    <!-- <span class="inline-block bg-primary text-white px-3 py-1 rounded-full"></span> -->
+                  </figcaption>
+                </figure>
+              </template>
+            </BtSlider>
+            <div class="sm:pl-10">
+              <div class="text-primary text-2xl font-bold text-center sm:text-left mb-2">活動說明</div>
+              <ol class="list-decimal pl-5">
+                <li>凡加入自綠生活節官方LINE帳號，並完成問卷填寫，即獲得抽獎資格。​</li>
+                <li>
+                  活動當日將於特定時間，於戶外打卡牆抽出中獎者。
+                  <ul class="list-disc pl-5">
+                    <li>10/26抽獎時間：12:00、15:00</li>
+                    <li>10/27抽獎時間：11:00、15:00</li>
+                  </ul>
+                </li>
+                <li>每一好友帳號限領一張抽獎券。</li>
+                <li>中獎者須在現場，出示抽獎券並完成領獎程序，中獎者若不在現場則視同放棄。</li>
+              </ol>
+            </div>
+          </div>
+          
           <div v-if="showMissionThree" class="text-center mb-4">
             <a
               class="inline-block aspect-[640/915] sm:aspect-[759/214] w-full max-w-[759px]"

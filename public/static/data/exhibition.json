@@ -28,6 +28,34 @@
     }
   },
   {
+    "title": "海洋依珂",
+    "image": "static/images/exhibition/list03-image.jpg",
+    "eventName": "源自海洋、愛護海洋",
+    "tags": ["海洋依珂", "台灣永續保養品", "褐藻保養"],
+    "logo": "static/images/organizers/logotype5-06.png",
+    "contentImage": "static/images/exhibition/list03-content.jpg",
+    "content": {
+      "org": "台灣永續保養品，獨家「FucoSkin®小分子褐藻醣膠」 添加實驗功效以上%數，堅持全成分海洋友善，包裝使用FSC森林認證紙材、單一材質瓶器，減少環境負擔。源自海洋愛護海洋，保護肌膚同時也堅持愛護環境!",
+      "missiongreener": "保護肌膚與海洋共存，從您的一個選擇做起，Hi-Q Beauty海洋依珂與您共建永續環境",
+      "event": "現場加入海洋依珂Line好友或會員<br>歡迎體驗全系列海洋依珂商品，現場還有驚喜好禮等您帶回家",
+      "link": ["https://www.hiq-beauty.com/"]
+    }
+  },
+  {
+    "title": "雄獅文具 想像力製造所",
+    "image": "static/images/exhibition/list08-image.jpg",
+    "eventName": "想像力就是你的超能力！",
+    "tags": ["互動美術館", "五感體驗", "手作創玩"],
+    "logo": "static/images/organizers/logotype5-13.png",
+    "contentImage": "static/images/exhibition/list08-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>雄獅文具於2020年成立「想像力製造所」—一座集結美學教育、手作體驗、森林探索等多功能的互動式美術館。</p><p>全園區以環保森林工廠的概念出發，打造2700坪的戶外森林，場館更獲得最高等級「鑽石級」臺灣綠建築標章。雄獅文具更有多項產品獲得碳足跡與環保標章認證，鼓勵綠色消費生活，共同為地球盡一份心力。</p>",
+      "missiongreener": "想像力製造所以「森林工廠」為藍圖打造，以低干擾的姿態和自然共融而生，期待來訪的大家，也能體會到環境友善的概念",
+      "event": "結合動物保育及環境友善的概念，以刮畫方式將喜歡的動物或海洋生物創作於帆布束口袋上。",
+      "link": ["https://simbalionartstudio.com/"]
+    }
+  },
+  {
     "title": "NBL「海洋生物復育計畫」",
     "image": "static/images/exhibition/list04-image.jpg",
     "eventName": "還海行動 2.0",
@@ -39,6 +67,20 @@
       "missiongreener": "「手」護地球，永續海洋",
       "event": "活體人工珊瑚礁魚種展出",
       "link": ["http://www.nbl.tw"]
+    }
+  },
+  {
+    "title": "Kiddo Earth",
+    "image": "static/images/exhibition/list09-image.jpg",
+    "eventName": "以地球永續為選品核心",
+    "tags": ["綠色生活從小事做起"],
+    "logo": "static/images/exhibition/logo/list09-logo.png",
+    "contentImage": "static/images/exhibition/list09-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>-友善環境，對世界更好的生活選物-</p><p class='mb-3'>Kiddo的任務是為現代人尋找友善地球的生活儀式感，提供輕鬆無壓力的方式愛護地球。</p><p class='mb-3'>從生活所觸及到的物品及想法開始改變起，透過實用性與設計感兼具的環保用品，有感降低廢棄物、減少塑毒的危害、減少多餘的包裝，也可以引導孩子們關注我們所生存的地球。</p><p>Earth, the only home we've ever known.</p>",
+      "missiongreener": "綠色生活從小事做起",
+      "event": "",
+      "link": ["https://www.kiddo.earth/"]
     }
   },
   {

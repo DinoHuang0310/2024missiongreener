@@ -20,7 +20,7 @@
       {
         "title": "統一超",
         "image": "static/images/organizers/logotype4-02.png",
-        "href": ""
+        "href": "https://www.facebook.com/711love"
       },
       {
         "title": "信義房屋",
@@ -35,7 +35,7 @@
       {
         "title": "崇越",
         "image": "static/images/organizers/logotype4-12.png",
-        "href": ""
+        "href": "https://www.topco-global.com"
       },
       {
         "title": "證交所",
@@ -105,7 +105,12 @@
       {
         "title": "海洋依珂",
         "image": "static/images/organizers/logotype5-06.png",
-        "href": ""
+        "href": "https://www.hiq-beauty.com/"
+      },
+      {
+        "title": "雄獅",
+        "image": "static/images/organizers/logotype5-13.png",
+        "href": "https://simbalionartstudio.com/"
       },
       {
         "title": "華生",
@@ -141,6 +146,11 @@
         "title": "諾貝爾",
         "image": "static/images/organizers/logotype5-11.png",
         "href": "http://www.nbl.tw"
+      },
+      {
+        "title": "deya",
+        "image": "static/images/organizers/logotype5-14.png",
+        "href": ""
       }
     ]
   }
