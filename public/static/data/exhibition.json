@@ -14,6 +14,48 @@
     }
   },
   {
+    "title": "崇越集團",
+    "image": "static/images/exhibition/list10-image.jpg",
+    "eventName": "淨零綠生活",
+    "tags": ["全魚利用", "循環經濟", "負責任生產"],
+    "logo": "static/images/organizers/logotype4-12.png",
+    "contentImage": "static/images/exhibition/list10-image.jpg",
+    "content": {
+      "org": "崇越集團以高科技產業扎實的經驗，縱向整合商務模式、橫向連結產業資源，將能源、環保、民生與運動健康等領域納入集團網絡中，提供國人完善的全方位生活提案。",
+      "missiongreener": "崇越集團致力樹立幸福生活的樣本",
+      "event": "秉持食品無添加精神，期許成為台灣食品科技產業的優質典範！",
+      "link": ["https://www.topco-global.com"]
+    }
+  },
+  {
+    "title": "環境部–淨零綠生活",
+    "image": "static/images/exhibition/list11-image.jpg",
+    "eventName": "淨零綠生活",
+    "tags": ["環境部", "淨零綠生活", "友善環境"],
+    "logo": "static/images/organizers/logotype4-13.png",
+    "contentImage": "static/images/exhibition/list11-content.jpg",
+    "content": {
+      "org": "為了響應「2050 淨零排放」，我國規劃了「十二項關鍵戰略」，「淨零綠生活」正是其中重要的一環，實際上「綠生活」就是一種友善環境的生活態度，環境部制定淨零綠生活行動指引，在日常生活中只要透過簡單的行動，從食、衣、住、行、育樂、購各個生活層面來執行，像是自備杯子、餐具、使用購物袋、隨手關燈、愛惜物品等，都是綠生活行動，快跟著我們的腳步一起來實踐 「淨零綠生活」吧！",
+      "missiongreener": "台灣電力，電利台灣。",
+      "event": "透過互動小遊戲及相關展示，宣導淨零綠生活理念。",
+      "link": ["https://greenlifestyle.moenv.gov.tw/"]
+    }
+  },
+  {
+    "title": "台灣電力公司",
+    "image": "static/images/exhibition/list12-image.jpg",
+    "eventName": "e手掌握用電大小事!",
+    "tags": ["台電", "台灣電力APP", "智慧用電"],
+    "logo": "static/images/organizers/logotype4-14.png",
+    "contentImage": "static/images/exhibition/list12-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>台灣電力公司，簡稱台電，與臺灣這塊土地一起成長，從水力發電胼手胝足篳路藍縷開始，走進當前能源多元化、友善環境與節能減碳。</p><p>台電每天為民服務，78 年來不曾懈怠，為臺灣每個角落帶來光明與溫暖，透過「以人為本」與「追求卓越」之信念，致力於穩定電力供應、建置智慧電網、推廣智能服務，友善環境行動及實踐社會責任等，配合政府政策推動能源轉型、穩健邁向淨零目標，以成為人民最足以信賴、不可缺少之生活夥伴。對臺灣土地的愛，是台電不變的承諾。</p>",
+      "missiongreener": "台灣電力，電利台灣。",
+      "event": "台灣電力APP/智慧電網相關主題DM",
+      "link": []
+    }
+  },
+  {
     "title": "國泰飯店觀光事業",
     "image": "static/images/exhibition/list02-image.jpg",
     "eventName": "響應環保 永續之旅",
@@ -67,6 +109,20 @@
       "missiongreener": "「手」護地球，永續海洋",
       "event": "活體人工珊瑚礁魚種展出",
       "link": ["http://www.nbl.tw"]
+    }
+  },
+  {
+    "title": "deya 台灣永續包袋",
+    "image": "static/images/exhibition/list13-image.jpg",
+    "eventName": "「夢想再大，deya都裝得下。」",
+    "tags": ["海廢回收包", "循環背包"],
+    "logo": "static/images/organizers/logotype5-14.png",
+    "contentImage": "static/images/exhibition/list13-content.jpg",
+    "content": {
+      "org": "<p class='mb-3'>deya致力於設計及創新永續循環的背包，結合回收材料，探索袋子的無限可能。</p><p class='mb-3'>我們透過海洋廢棄物的回收再利用, 像是寶特瓶跟漁網，將其材料重新再製變成新的產品，提倡綠色和可持續的生活方式。</p><p>「夢想再大，deya都裝得下。」</p>",
+      "missiongreener": "deya 背起永續生活!",
+      "event": "滿千送大翅鯨回收提袋",
+      "link": ["https://www.deya.tw/"]
     }
   },
   {

@@ -15,12 +15,47 @@
     ]
   },
   {
+    "title": "指導單位",
+    "list": [
+      {
+        "title": "經濟部",
+        "image": "static/images/organizers/logotype3-01.png",
+        "href": ""
+      },
+      {
+        "title": "環境部",
+        "image": "static/images/organizers/logotype4-13.png",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "title": "合作單位",
+    "list": [
+      {
+        "title": "文化部",
+        "image": "static/images/organizers/logotype2-01.png",
+        "href": ""
+      }
+    ]
+  },
+  {
     "title": "協辦夥伴",
     "list": [
       {
-        "title": "統一超",
+        "title": "統一超商",
         "image": "static/images/organizers/logotype4-02.png",
         "href": "https://www.facebook.com/711love"
+      },
+      {
+        "title": "經濟部能源署",
+        "image": "static/images/organizers/logotype4-15.png",
+        "href": ""
+      },
+      {
+        "title": "綠推中心",
+        "image": "static/images/organizers/logotype4-16.png",
+        "href": ""
       },
       {
         "title": "信義房屋",
@@ -61,11 +96,6 @@
         "title": "環球MALL",
         "image": "static/images/organizers/logotype4-07.png",
         "href": "https://www.twglobalmall.com"
-      },
-      {
-        "title": "環境部",
-        "image": "static/images/organizers/logotype4-13.png",
-        "href": ""
       },
       {
         "title": "台電",

@@ -1,5 +1,19 @@
 [
   {
+    "title": "太古可口可樂",
+    "image": "static/images/market/list19-image.jpg",
+    "eventName": "產品包裝綠風貌，邁向「瓶到瓶」的永續循環",
+    "tags": ["可有為，樂有夢", "World Without Waste", "少一樣複雜，多怡漾美好"],
+    "logo": "static/images/organizers/logotype4-11.png",
+    "contentImage": "static/images/market/list19-image.jpg",
+    "content": {
+      "org": "歡迎來到太古可口可樂永續生活展區，一起探索我們的2030「可有為，樂有夢」願景！此次展位呈現了綠色產品設計與創新包裝，並展示全球「World Without Waste」計畫的最新進展。立即來體驗有趣互動，與我們一起邁向無廢的未來！",
+      "missiongreener": "可有為，樂有夢 – 從一瓶飲料開啟永續生活",
+      "event": "加入互動問答挑戰，有機會贏取「bonaqua怡漾」無標籤鹼性水、「可口可樂」或「雪碧」等豐富獎品！",
+      "link": ["https://www.swirecocacola.com/tc/About-Us/Overview.html"]
+    }
+  },
+  {
     "title": "小永報",
     "image": "static/images/market/list10-image.jpg",
     "eventName": "爲孩子設計的永續刊物",
@@ -25,6 +39,20 @@
       "missiongreener": "Shesmy可分解衛生棉，讓生理期回歸純淨自然",
       "event": "加LINE領取驚喜好禮🎁",
       "link": ["https://www.shes.world"]
+    }
+  },
+  {
+    "title": "iGoods愛物資",
+    "image": "static/images/market/list20-image.jpg",
+    "eventName": "用物連結彼此，讓愛真實傳遞",
+    "tags": ["物資永續應用", "ESG策略實踐", "公益串聯策展"],
+    "logo": "static/images/market/logo/list20-logo.png",
+    "contentImage": "static/images/market/list20-image.jpg",
+    "content": {
+      "org": "艾谷思享創股份有限公司以「找回人與物的美好關係」為願景，透過各式創意且專業的物資分享解決方案，促進更多的閒置資源流動與連結，並建構物品循環生態圈為其帶來新的價值。旗下品牌包含「iGoods愛物資」 透過科技應用與智慧媒合，建置開放與信任的物資永續整合服務平台，針對個人或企業客戶，提供物資永續解決方案、ESG策略執行與行銷策展服務。",
+      "missiongreener": "物資永續，讓愛延續",
+      "event": "",
+      "link": ["http://igoods.tw/"]
     }
   },
   {
@@ -95,6 +123,20 @@
       "missiongreener": "鷄極本味，為您提供天然營養，實現可持續的健康生活！",
       "event": "攤位可提供試喝",
       "link": ["https://www.chichichoice.com/zh-TW"]
+    }
+  },
+  {
+    "title": "EWASP電動滑板車｜蜂電科技",
+    "image": "static/images/market/list21-image.jpg",
+    "eventName": "綠色行動力，未來更美麗",
+    "tags": ["EWASP電動滑板車", "蜂電科技綠生活", "EWASP節能騎乘"],
+    "logo": "static/images/market/logo/list21-logo.png",
+    "contentImage": "static/images/market/list21-content.jpg",
+    "content": {
+      "org": "EWASP 蜂電科技致力引領綠色交通，打造環保、節能、低碳的電動載具。我們相信科技創新能減少碳排放。憑藉多年海外經驗，為台灣設計客製化電動滑板車，提供符合本地需求的綠色交通工具。2021 年成立開發總部與體驗中心，實踐環保理念。我們擁有一條龍服務，從設計、生產到售後保固，嚴格控管品質與環保性能。EWASP 將快速收折、輕巧移動的概念融入產品，讓您享受便利，同時為低碳生活盡力。我們的目標是開發更多電動載具，推動環保節能的生活方式，讓綠色成為日常。",
+      "missiongreener": "蜂電科技領航線 低碳出行新體驗 電動滑板樂無窮",
+      "event": "凡是現場預約騎乘體驗者，就可得到一張2000元購車折價券，使用期限為11/31日止.<br>（響應環保，加入官方LINE由活動後公司統一發送電子優惠券）。",
+      "link": ["https://www.ewasp.tw"]
     }
   },
   {
